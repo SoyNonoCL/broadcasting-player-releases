@@ -1,0 +1,18 @@
+{
+  "published": "2026-10-25",
+  "android": {
+    "versionCode": 82866,
+    "versionName": "1.6.82866",
+    "url": "https://raw.githubusercontent.com/SoyNonoCL/broadcasting-player-releases/main/BroadcastingPlayer.apk"
+  },
+  "windows": {
+    "version": "1.6.0",
+    "url": "https://raw.githubusercontent.com/SoyNonoCL/broadcasting-player-releases/main/BroadcastingPlayer-Portable.exe"
+  },
+  "notes": {
+    "S": "• Nuevo acceso JW Stream: entra con el enlace de tu congregación\n• Desde el teléfono: Compartir el enlace → Broadcasting Player → Ver en Mi TV\n• En la TV se maneja con un cursor (flechas y OK)",
+    "E": "• New JW Stream shortcut: sign in with your congregation’s link\n• From your phone: Share the link → Broadcasting Player → Watch on My TV\n• On TV, use a pointer (arrows and OK)",
+    "T": "• Novo acesso ao JW Stream: entre com o link da sua congregação\n• No celular: Compartilhe o link → Broadcasting Player → Ver na Minha TV\n• Na TV, use um cursor (setas e OK)",
+    "U": "• Новый раздел JW Stream: вход по ссылке вашего собрания\n• С телефона: Поделиться ссылкой → Broadcasting Player → Смотреть на моём ТВ\n• На ТВ — курсор (стрелки и OK)"
+  }
+}
