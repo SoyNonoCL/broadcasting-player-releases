@@ -1,0 +1,26 @@
+{
+  "published": "2026-11-17",
+  "android": {
+    "versionCode": 115682,
+    "versionName": "1.7.115682",
+    "url": "https://raw.githubusercontent.com/SoyNonoCL/broadcasting-player-releases/main/BroadcastingPlayer.apk"
+  },
+  "windows": {
+    "version": "1.7.0",
+    "url": "https://raw.githubusercontent.com/SoyNonoCL/broadcasting-player-releases/main/BroadcastingPlayer-Portable.exe"
+  },
+  "roku": {
+    "version": "1.1.0",
+    "url": "https://raw.githubusercontent.com/SoyNonoCL/broadcasting-player-releases/main/BroadcastingPlayer-Roku.zip",
+    "ui": {
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/SoyNonoCL/broadcasting-player-releases/main/bpui.zip"
+    }
+  },
+  "notes": {
+    "S": "• Nueva versión para Roku (Inicio, En vivo, Biblia, Reuniones de la semana, búsqueda y Mis favoritos)\n• Mi TV ahora también encuentra el Roku: envía videos y contrólalos desde el teléfono o Windows",
+    "E": "• New Roku version (Home, Live, Bible, This week’s meetings, search, and My Favorites)\n• My TV now also finds your Roku: send videos and control them from your phone or Windows",
+    "T": "• Nova versão para Roku (Início, Ao vivo, Bíblia, Reuniões da semana, busca e Meus favoritos)\n• Minha TV agora também encontra o Roku: envie vídeos e controle pelo celular ou Windows",
+    "U": "• Новая версия для Roku (Главная, Прямой эфир, Библия, Встречи недели, поиск и Избранное)\n• «Мой ТВ» теперь находит и Roku: отправляйте видео и управляйте ими с телефона или Windows"
+  }
+}
