@@ -1,0 +1,1 @@
+{ "name": "bp-feed", "private": true, "version": "1.0.0", "dependencies": { "jszip": "3.10.1", "sql.js": "1.12.0" } }

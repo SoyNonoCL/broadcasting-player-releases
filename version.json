@@ -1,0 +1,26 @@
+{
+  "published": "2026-11-21",
+  "android": {
+    "versionCode": 121703,
+    "versionName": "1.8.121703",
+    "url": "https://raw.githubusercontent.com/SoyNonoCL/broadcasting-player-releases/main/BroadcastingPlayer.apk"
+  },
+  "windows": {
+    "version": "1.8.0",
+    "url": "https://raw.githubusercontent.com/SoyNonoCL/broadcasting-player-releases/main/BroadcastingPlayer-Portable.exe"
+  },
+  "roku": {
+    "version": "1.2.0",
+    "url": "https://raw.githubusercontent.com/SoyNonoCL/broadcasting-player-releases/main/BroadcastingPlayer-Roku.zip",
+    "ui": {
+      "version": 2,
+      "url": "https://raw.githubusercontent.com/SoyNonoCL/broadcasting-player-releases/main/bpui.zip"
+    }
+  },
+  "notes": {
+    "S": "• Las buenas noticias según Jesús: al abrir la sección, el tráiler de la serie se reproduce sin sonido arriba, como en jw.org",
+    "E": "• The Good News According to Jesus: when you open the section, the series trailer plays silently at the top, just like on jw.org",
+    "T": "• As Boas Novas segundo Jesus: ao abrir a seção, o trailer da série é reproduzido sem som no topo, como no jw.org",
+    "U": "• «Благая весть от Иисуса»: при открытии раздела трейлер сериала воспроизводится вверху без звука, как на jw.org"
+  }
+}
